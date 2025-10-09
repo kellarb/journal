@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "publish/index.md",
+                "file": "publish/Projects/Quartz Website.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Quartz Website"
             }
           }
         ]
@@ -167,11 +167,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2d40d640604b45e3",
+  "active": "26e6ebf076398a58",
   "lastOpenFiles": [
+    "publish/index.md",
+    "publish/Projects/Quartz Website.md",
     "publish/Projects",
     "README.md",
-    "publish/index.md",
     "publish"
   ]
 }
