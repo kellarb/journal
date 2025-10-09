@@ -167,8 +167,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "26e6ebf076398a58",
+  "active": "2d40d640604b45e3",
   "lastOpenFiles": [
+    "publish/Projects",
+    "README.md",
     "publish/index.md",
     "publish"
   ]
