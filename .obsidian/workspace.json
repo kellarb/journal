@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Untitled.md",
+                "file": "publish/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "index"
             }
           }
         ],
@@ -182,7 +182,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2d40d640604b45e3",
+  "active": "013e84523c9386f0",
   "lastOpenFiles": [
     "Notes/Untitled.md",
     "publish/index.md",
