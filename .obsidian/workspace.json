@@ -163,15 +163,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "github-sync:Sync with Remote": false
+      "bases:Create new base": false
     }
   },
   "active": "26e6ebf076398a58",
   "lastOpenFiles": [
-    "2026-04-19.md",
-    "publish/index.md",
     "Notes/Untitled.md",
+    "publish/index.md",
+    "Untitled.base",
+    "2026-04-19.md",
     "Notes",
     "publish/Projects/Quartz Website.md",
     "publish/Projects",
